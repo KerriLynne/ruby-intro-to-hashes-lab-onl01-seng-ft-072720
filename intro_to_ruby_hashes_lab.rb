@@ -13,7 +13,11 @@ actor_name
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+		:railroads => {
+			
+		}
+	}
 
 end
 
